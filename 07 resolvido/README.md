@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Exercício 07
 
 ## Casos de COVID-19
@@ -23,14 +21,3 @@ Para isso, a fórmula é a seguinte:
 ![P = Po * x ^\frac{t}{7}](https://i.imgur.com/xT7rwGh.png)
 
 P será a quantidade de pessoas infectadas após decorrido o tempo t
-
----
-
-Preencha a checklist para finalizar o exercício:
-
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-
-###### tags: `lógica` `módulo 1` `exercício de casa` `matemática` `nodeJS`
